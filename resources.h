@@ -1,0 +1,10 @@
+#pragma once
+#include <QxPrecompiled.h>
+#include <QxOrm_Impl.h>
+#include <QxDao/QxDao.h>
+#include <QxDao/QxDao_Impl.h>
+#include <QxRegister/QxRegister.h>
+#include <QxRegister/QxRegisterInternalHelper.h>
+#include <QxRegister/QxRegisterQtProperty.h>
+#include <QxDao/QxSqlDatabase.h>
+#include <vector>
